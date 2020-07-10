@@ -1,0 +1,19 @@
+{
+
+	Excel_Manifest_Path:"Data/Manifest.xlsx",
+	Excel_Manifest_Name:"Sheet1",
+	logF_BusinessProcessName:"Deliverobot Dispatcher",
+	Credentials_Name:"UiPathLogin",
+	Credentials_SQL:"MySQLCredentials",
+	Queue_Name:"ToSortForDrivers",
+	SQL_DNS:"MySQL",
+	Temp_Excel_Path:"Data/Temp/Temp.xlsx",
+	Temp_Excel_Path_Full:"EXXX/QA Workspace/Group Project REF/DeliveryDispatcher/Data/Temp/Temp.xlsx",
+	Success_Transaction:"Transaction has been cmpleated Successfully",
+	Buisness_Exeption_Transaction:"Transaction has been compleated with a Business Exeption",
+	System_Exeption_Transaction:"Transaction has been compleated with a System Exception",
+	Email_Template:"Data/Templates/Email_Template.txt",
+	Email_Title:"Deliverobot Jobs!",
+	Email_Account:"ToborInc@outlook.com"
+	
+}
